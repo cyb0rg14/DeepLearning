@@ -1,0 +1,5 @@
+.vscode/
+mltut/
+datasets/
+practice/datasets
+practice/__pycache__
